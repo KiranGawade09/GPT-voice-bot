@@ -71,5 +71,5 @@ MIT
 ## Contact
 
 For questions or support, please contact:
-- Email: mahaboobsab.goa@gmail.com
-- LinkedIn: [Mahaboobsab Makandar](https://www.linkedin.com/in/mahaboobsab-makandar)
+- Email: kirangawade6401@gmail.com
+- LinkedIn: [Kiran Gawade](www.linkedin.com/in/kiran-gawade-8920b6342)
