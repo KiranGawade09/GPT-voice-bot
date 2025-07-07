@@ -72,4 +72,4 @@ MIT
 
 For questions or support, please contact:
 - Email: kirangawade6401@gmail.com
-- LinkedIn: [Kiran Gawade](www.linkedin.com/in/kiran-gawade-8920b6342)
+- LinkedIn: [Kiran Gawade]([www.linkedin.com/in/kiran-gawade-8920b6342](https://www.linkedin.com/in/kiran-gawade-8920b6342/))
